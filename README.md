@@ -4,4 +4,5 @@
 3. ders:  [https://colab.research.google.com/drive/1w5n45Q37pKEHKvsf_w2SyBWOJuBIFABa?usp=sharing](https://colab.research.google.com/drive/1w5n45Q37pKEHKvsf_w2SyBWOJuBIFABa?usp=sharing)
 4. ders:
 5. Vücut Kitle Endeksi Ödevi: https://colab.research.google.com/drive/1dovdXVKA0GdmznNAghjQee27fuspqBKT?usp=sharing
-6. Restaurant Tip Analysis Homework: 
+6. Restaurant Tip Analysis Homework: https://colab.research.google.com/drive/1U5zqmE0NK9Ka8cEKIeW1j0pxNxaQp4FJ?usp=sharing
+7. 
