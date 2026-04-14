@@ -5,8 +5,8 @@
 5. Vücut Kitle Endeksi Ödevi: https://colab.research.google.com/drive/1dovdXVKA0GdmznNAghjQee27fuspqBKT?usp=sharing
 6. Restaurant Tip Analysis Homework: https://colab.research.google.com/drive/1U5zqmE0NK9Ka8cEKIeW1j0pxNxaQp4FJ?usp=sharing
 7. Titanik Yarışması : https://www.kaggle.com/code/nurcihangktanr/titanik-yar-mas
-8. Araç Fiyat Tahmin:
+8. Araç Fiyat Tahmin:https://colab.research.google.com/drive/1LdDz9zk0g_LLzIt2yzbPCGeIX-9athJr?usp=sharing
 9. Slider Foto uygulaması:
-10. Toplu GÖrsel İndirme:
+10. Toplu Görsel İndirme:
 11. Gradio İle Veri Toplama:
 12. 
