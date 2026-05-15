@@ -7,7 +7,7 @@
 7. Titanik Yarışması : https://www.kaggle.com/code/nurcihangktanr/titanik-yar-mas
 8. Araç Fiyat Tahmin:https://colab.research.google.com/drive/1LdDz9zk0g_LLzIt2yzbPCGeIX-9athJr?usp=sharing
 9. Slider Foto uygulaması: https://colab.research.google.com/drive/1VWcg6_TKqHAwKXu_gGiHh9R9N7U2UhRd?usp=sharing
-10. Toplu Görsel İndirme:
+10. Toplu Görsel İndirme: https://colab.research.google.com/drive/1QBi2rzNk0lKe-O5ipF6t7q2984BeaM-I?usp=sharing
 11. Gradio İle Veri Toplama:
 12. Müşteri Terk Analizi: https://colab.research.google.com/drive/1AqsMBeeQdPy5x9vDgTf734J0PYZMzwL_?usp=sharing
 13. 
