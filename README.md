@@ -10,3 +10,4 @@
 10. Toplu Görsel İndirme:
 11. Gradio İle Veri Toplama:
 12. Müşteri Terk Analizi: https://colab.research.google.com/drive/1AqsMBeeQdPy5x9vDgTf734J0PYZMzwL_?usp=sharing
+13. 
