@@ -15,12 +15,12 @@
 15. Detaylı Adidas Veri Analizi Colab Vibe Cosing ile: https://colab.research.google.com/drive/1P2WaxWWuiBsTzLVkOxpYFC2mo22dRT4N?usp=sharing
 16. öneri sistemleri: https://colab.research.google.com/drive/1D-zKEQRM-cO_k4bQwrHqmCcSQdDW2aTL?usp=sharing
 17. opencv görüntü işleme: https://colab.research.google.com/drive/1hiRxV9piaIuCmlOUYhu6gFQU0bYtPpjB?usp=sharing
-18. deep learning MNIST uygulaması:
-19. Deep Learning KERAS ANN - Linear Regression Karşılatırması:
-20. NLP- Doğal Dil İşlemenin Temelleri:
-21. NLP- YouTube Metin Sınıflandırıcı ve Deploy:
-22. Kelime Bulutu:
-23. HF model kullanımı transformers:
-24. HF model kullanımı FB Translater:
+18. deep learning MNIST uygulaması: https://colab.research.google.com/drive/1gW4L6qsgcL4BvQjS-SmPKhPvquLiiYtx?usp=sharing
+19. Deep Learning KERAS ANN - Linear Regression Karşılatırması: https://colab.research.google.com/drive/1ss7bhnXkeWcZr4qQFT_7vGpV1i4oC85R?usp=sharing
+20. NLP- Doğal Dil İşlemenin Temelleri: https://colab.research.google.com/drive/1u4ohmBdjUJDQXK1gJ38iKgHlPOsjFtZP?usp=sharing
+21. NLP- YouTube Metin Sınıflandırıcı ve Deploy: https://colab.research.google.com/drive/1riM4_uTZb4OcydaDO4gxwfnHdyGzsnDY?usp=sharing
+22. Kelime Bulutu: https://colab.research.google.com/drive/10GvcbI1aXXeKbFSlBWzg-86chHBEZ2uC?usp=sharing
+23. HF model kullanımı transformers: https://colab.research.google.com/drive/1KzpbfLJnEE4_45tmgMAydBWGUAoLvaqY?usp=sharing
+24. HF model kullanımı FB Translater: https://colab.research.google.com/drive/1XSv_QK-CL6LEBH7UFq-vdMJbJd1dTEOw?usp=sharing
 25. HF model kullanımı Object Detection:
 26. HF model kullanımı Object Detection 3 Farklı yol:
