@@ -22,5 +22,5 @@
 22. Kelime Bulutu: https://colab.research.google.com/drive/10GvcbI1aXXeKbFSlBWzg-86chHBEZ2uC?usp=sharing
 23. HF model kullanımı transformers: https://colab.research.google.com/drive/1KzpbfLJnEE4_45tmgMAydBWGUAoLvaqY?usp=sharing
 24. HF model kullanımı FB Translater: https://colab.research.google.com/drive/1XSv_QK-CL6LEBH7UFq-vdMJbJd1dTEOw?usp=sharing
-25. HF model kullanımı Object Detection:
+25. HF model kullanımı Object Detection: https://colab.research.google.com/drive/1j33HCMf9fiCkGk_QRu10bz2EgR7ay8iU?usp=sharing
 26. HF model kullanımı Object Detection 3 Farklı yol:
